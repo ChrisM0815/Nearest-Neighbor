@@ -1,0 +1,23 @@
+|Definition der Klassen und Attribute
+|
+|Klassen    0=Appendizitis negativ
+|           1=Appendizitis positiv
+0,1.
+|
+|Attribute
+|
+Alter:							continuous.
+Geschlecht_(1=m___2=w):					1,2.
+Schmerz_Quadrant1_(0=nein__1=ja):			0,1.
+Schmerz_Quadrant2_(0=nein__1=ja):			0,1.
+Schmerz_Quadrant3_(0=nein__1=ja):			0,1.
+Schmerz_Quadrant4_(0=nein__1=ja):			0,1.
+Lokale_Abwehrspannung_(0=nein__1=ja):			0,1.
+Generalisierte_Abwehrspannung_(0=nein__1=ja):		0,1.
+Schmerz_bei_Loslassmanoever_(0=nein__1=ja):		0,1.
+Erschuetterung_(0=nein__1=ja):				0,1.
+Schmerz_bei_rektaler_Untersuchung_(0=nein__1=ja):	0,1.
+Temp_ax:						continuous.
+Temp_re:						continuous.
+Leukozyten:						continuous.
+Diabetes_mellitus_(0=nein__1=ja):			0,1
